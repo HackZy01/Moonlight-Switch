@@ -23,6 +23,7 @@ bool canStartApp(int argc, char** argv) {
         auto dialog = new Dialog("error/applet_warn"_i18n);
         dialog->addButton("hints/ok"_i18n, [] {});
         dialog->open();
+        std::this_thread::sleep_for(std::chrono::seconds(7));
         return true;
     }
 #endif
