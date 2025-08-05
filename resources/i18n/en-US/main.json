@@ -51,6 +51,7 @@
     },
     "error": {
         "applet_not_supported": "Ta aplikacja nie wspiera trybu appletu\n\nProszę uruchomić ją używając Title Redirect (Domyślnie możesz przytrzymać  i uruchomić dowolną grę)",
+        "applet_warn": "Tryb appletu nie jest zalecany dla tej aplikacji\n\nZaleca się uruchomić ją używając Title Redirect (przytrzymać  i uruchomić dowolną grę)",
         "dialog_header": "Błąd",
         "host_not_found": "Nie odnaleziono komputera...",
         "ip_not_obtained": "Nie udało się uzyskać adresu IP...",
