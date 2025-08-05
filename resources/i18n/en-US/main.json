@@ -17,23 +17,23 @@
     },
     "add_host": {
         "connect": "Połącz",
-        "host_ip": "IP Hosta",
-        "manual": "Ręcznie",
+        "host_ip": "IP hosta",
+        "manual": "Ręczne",
         "pair_postfix": " na swoim komputerze",
         "pair_prefix": "Parowanie\n\nWprowadź ",
         "paired_error": "Już sparowano\nUstawienia zostały zaktualizowane",
-        "search": "Wyszukiwanie urządzeń",
+        "search": "Urządzenia w pobliżu",
         "search_error": "Wyszukiwanie jest niedostępne",
         "search_refresh": "Odśwież",
         "try_connect": "Nawiązywanie połączenia z hostem"
     },
     "app_list": {
-        "reload_app_list": "Przeładuj",
+        "reload_app_list": "Odśwież",
         "run_current": "Uruchom aktywną aplikację",
-        "running": "Uruchomiono",
+        "running": "uruchomiono",
         "star": "Dodaj do ulubionych",
         "terminate": "Zakończ",
-        "terminate_current_app": "Wyłącz uruchomioną aplikację",
+        "terminate_current_app": "Zamknij uruchomioną aplikację",
         "terminate_postfix": "\n\nNiezapisane postępy mogą być utracone",
         "terminate_prefix": "Czy na pewno chcesz zamknąć ",
         "unstar": "Usuń z ulubionych"
@@ -43,7 +43,7 @@
         "close": "Zamknij",
         "confirm": "Potwierdź",
         "edit": "Edytuj",
-        "remove": "Usuń"
+        "remove": "Zapomnij"
     },
     "discovery_manager": {
         "no_host": "Nie odnaleziono komputera",
@@ -118,7 +118,7 @@
         "h265": "HEVC (H.265)",
         "keyboard": "Klawiatura",
         "keyboard_compact": "Kompaktowa (80%)",
-        "keyboard_fingers": "Dotknięcia powodujące otwarcie klawiatury",
+        "keyboard_fingers": "Liczba palców do przywołania klawiatury",
         "keyboard_fullsized": "Pełna",
         "keyboard_type": "Typ klawiatury",
         "keys": "Przyciski kontrolera",
@@ -131,7 +131,7 @@
         "mouse": "Mysz",
         "mouse_input": "Tryb sterowania myszą",
         "mouse_input_setup_message": "Naciśnij przyciski, których chcesz używać do włączenia trybu sterowania myszą:\n\n",
-        "mouse_speed": "Prędkość kursora",
+        "mouse_speed": "Szybkość działania wskaźnika myszy",
         "overlay": "Nakładka w grze",
         "overlay_buttons": "Połączenie przycisków", 
         "overlay_setup_message": "Naciśnij przyciski, których chcesz używać do otwierania nakładki:\n\n",
