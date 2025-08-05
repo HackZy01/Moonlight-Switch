@@ -20,10 +20,10 @@ bool canStartApp(int argc, char** argv) {
 #ifdef __SWITCH__
     AppletType at = appletGetAppletType();
     if (at != AppletType_Application && at != AppletType_SystemApplication) {
-        auto dialog = new Dialog("error/applet_not_supported"_i18n);
-        dialog->addButton("common/close"_i18n, [] {});
+        auto dialog = new Dialog("error/applet_warn"_i18n);
+        dialog->addButton("hints/ok"_i18n, [] {});
         dialog->open();
-        return false;
+        return true;
     }
 #endif
     return true;
